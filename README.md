@@ -1,4 +1,4 @@
-# Hey, [Dael here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, [Dael here!]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### 🧑 About me
 I am an undergraduate Computer science and Engineering student at Tecnológico de Monterrey. C, C++, Python, R, Javascript, HTML, CSS, and Bash are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
