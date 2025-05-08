@@ -43,6 +43,14 @@ I am an undergraduate Computer science and Engineering student at Tecnológico d
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+### 📄 Certifications
+- Cisco: Introduction to cybersecurity - Mar 05, 2025
+- CCNA: Switching, Routing, and Wireless Essentials - Oct 19, 2024
+- CCNA: Introduction to Networks - Jun 14, 2024
+
+- 👾 I'm currently studying...
+  - Cisco: Etical Hacker certification
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
