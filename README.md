@@ -5,7 +5,7 @@ I am an undergraduate Computer science and Engineering student at Tecnológico d
 * **I am interested in Cybersecurity, Web designing, App development, and Software development**
 
 - 🔭 I’m currently working on ...
-  -  Cloud project for cybersecurity
+  -  Cloud project for cybersecurity in AWS
   -  A web system for the HR department of a company.
 - 🌱 I’m currently learning ...
   - Next.js
